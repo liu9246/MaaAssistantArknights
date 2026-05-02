@@ -2,6 +2,34 @@
     "theme": "Phantom",
     "priority": [
         {
+            "name": "单奶",
+            "opers": [
+                {
+                    "name": "凯尔希·思衡托",
+                    "skill": 2,
+                    "alternate_skill": 2,
+                    "is_key": true,
+                    "is_start": false,
+                    "recruit_priority": 999,
+                    "promote_priority": 1
+                }
+            ]
+        },
+        {
+            "name": "回费",
+            "opers": [
+                {
+                    "name": "可露希尔",
+                    "skill": 2,
+                    "alternate_skill": 2,
+                    "is_key": true,
+                    "is_start": false,
+                    "recruit_priority": 999,
+                    "promote_priority": 1
+                }
+            ]
+        },
+        {
             "name": "益达",
             "opers": [
                 {
